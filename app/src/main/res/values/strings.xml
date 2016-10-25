@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GridView Custom</string>
+    <string name="text_default">Custom text with layout default</string>
+    <string name="text_custom_one_text"> Custom one text</string>
+    <string name="text_custom_more_text">Custom more text</string>
+    <string name="image_custom">Custom Image</string>
+    <string name="image_and_text">Image and text</string>
+    <string name="custom_grid_view">Custom GridView</string>
+</resources>
